@@ -1,12 +1,12 @@
 Hi, there 👋 I'm Serhii, Software Engineer from Kyiv, Ukraine 🇺🇦
 
-Currently, The Master of Software Engineering (NTUU "KPI") 🧑‍🎓 and backend developer at Perion 🧑🏻‍💻
+Currently Data Engineer at Paragone.ai with strong software designing & engineering skills 🧑🏻‍💻
 
-I do like programming and creating something, especially extraordinary and useful 💻
+More than 7 years experience in programming (basically back-end web development) 💻
 
-Python developer with 6 years experience in PHP programming 🐍
+Have a master's diploma in Software Engineering (NTUU "KPI") 🧑‍🎓
 
-Happy to meet new people with great ideas and be involved into new projects 🎉
+Happy to meet new people with great ideas and be involved into new open-source projects 🎉
 
 You can text me: [![Telegram](telegram.png)](https://t.me/shidenko) [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/shidenko/) [![Instagram](instagram.png)](https://www.instagram.com/s.hidenko/)
 
