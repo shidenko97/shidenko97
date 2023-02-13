@@ -1,5 +1,5 @@
 # 💫 What’s up?
-🇺🇦 Ukrainian<br>💻 Software Engineer at [evo.company](https://evo.company)<br>◼️ Design and build scalable web-applications is my passion<br>😎 Happy to be involved to awesome open source projects<br>
+🇺🇦 Ukrainian<br>💻 Software Engineer at [OSavul](https://osavul.cloud)<br>◼️ Design and build scalable web-applications is my passion<br>😎 Happy to be involved to awesome open source projects<br>
 
 
 # 🌐 Socials
